@@ -1,0 +1,15 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+#3 more commands that I can use on terminal are pwd, ls, and clear. pwd lets you see what directory you're in, ls lets you see the contents of the directory you're in, and clear allows you to clear your terminal screen. My computer terminal is in zsh (Z shell) terminal.
+
+2. Do you have pets? What kind?
+#Yes, I have 2 dogs named Mac and Riley; Mac is a Yorkshire Terrier while Riley is a labrador and I love them both dearly.
+
+3. If you run across an error, what would your first course of action be?
+#My first course of action would be to run and debug the code on VScode, and if that doesn't work I'll go to office hours and ask for help cause I would have no idea what to do afterwards :p
+
+4. Funniest thing that happened to you in high school.
+#Not really funny per se to me, but we wanted our friend to be Prom King during our junior year of high school so we kept printing out posters and hung them all around the school for everyone to see; in the end, he did actually become Prom King lol.
+
+5. What is a python script? (Keep it simple)
+#A Python script is file that contains code that you run in your command line that the computer recognizes as code.
+
