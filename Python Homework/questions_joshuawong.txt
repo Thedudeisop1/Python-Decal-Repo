@@ -13,3 +13,4 @@
 5. What is a python script? (Keep it simple)
 #A Python script is file that contains code that you run in your command line that the computer recognizes as code.
 
+
